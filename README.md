@@ -4,4 +4,4 @@
 <p>A responsive matching memory game made with JavaScript</p>
 
 <p>Results</p>
-<p><img src="MemoryGame"></p>
+<p><img src="MemoryGame.png"></p>
